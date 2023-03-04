@@ -2,3 +2,4 @@ Add new line
 
 Add second line
 
+Adding a new line in rebase branch
